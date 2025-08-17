@@ -1,0 +1,16 @@
+{
+  "name": "telegram-whatsapp-bot-project",
+  "version": "1.0.1",
+  "description": "Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "pino": "^8.21.0",
+    "telegraf": "^4.16.3"
+  }
+}
